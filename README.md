@@ -1,6 +1,4 @@
-# Bangkit-Machine-Learning-C241-PS189
-
-# Dataset Kaggle Link
+# Link Dataset Kaggle
 
 # Dataset Fruit Classification
 https://www.kaggle.com/datasets/sriramr/fruits-fresh-and-rotten-for-classification/data
